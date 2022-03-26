@@ -1,3 +1,4 @@
+//Probé este archivo en el Typescript Playground con éxito
 interface Settings {
     title: string;
     color: string;
